@@ -6,6 +6,8 @@
 
 A powerful framework for **benchmarking and evaluating multiple AI agents** in parallel. Assign tasks, let agents compete, measure performance, and track insights across sessions.
 
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/5e8b9b35-a061-4de6-909a-4fb9ce673832" />
+
 ---
 
 ## 🎯 What is Multi-Agent Arena?
